@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.otpField {
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  margin: 10px;
+}
